@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "sympy",
+  "repo": "SymPEPs",
+  "versions": [
+    {
+      "commit": "d8458b0fec475267c22cab69ef86664c71eaf51a",
+      "parsed_at": "2026-10-21T20:13:54.232006+00:00",
+      "filetree": "filetree/d8458b0fec475267c22cab69ef86664c71eaf51a.nq.gz",
+      "blobs": [
+        "blob/9dfe3f0394fec5df36880098351721c3eed71ad3.nq.gz",
+        "blob/ed507ea594b00bfdf1aa3baecb0152d73e6cfa6a.nq.gz",
+        "blob/316902453604e03916ad4167e434046562e4f70a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

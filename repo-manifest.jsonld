@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sympy/SymPEPs",
+  "@type": "gh:Repository",
+  "gh:name": "SymPEPs",
+  "gh:owner": "sympy",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/sympy/SymPEPs/commit/d8458b0fec475267c22cab69ef86664c71eaf51a",
+      "git:hexsha": "d8458b0fec475267c22cab69ef86664c71eaf51a",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
