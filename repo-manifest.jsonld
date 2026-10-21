@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sympy/SymPEPs/commit/d8458b0fec475267c22cab69ef86664c71eaf51a",
       "git:hexsha": "d8458b0fec475267c22cab69ef86664c71eaf51a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
